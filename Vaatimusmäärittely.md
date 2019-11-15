@@ -7,4 +7,4 @@ Kerätä telemetriaa eri ajosimulaattoreista ja peleistä ja näyttää siitä m
 ## Jatkokehitysideoita
 * Tuki useammalle simulaattorille/pelille. mm. Assetto Corsa, Project Cars
 * Tuki konsolipeleille. Käytännössä pitäisi olla helppoa, koska konsolipelit streamaa telemetriaa ihan samalla tavalla kun pc pelit. Pitää tutkia. (telemetriaa keräävä sovellus toki pitää ajaa tietokoneella)
-* Tarkempaa telemetriaa (mm. nopeus, kaasu, jarru, sijanti radalla yms.). Yksi ongelma datan paljous
+* Tarkempaa telemetriaa (mm. nopeus, kaasu, jarru, sijanti radalla yms.). Yksi ongelma datan paljous. F1 2019 dataa tulee noin 4-5MB minuutissa, eli puolen tunnin kisa olisi varmaan yli 100MB. Tavallaan olisi hyvä juttu tallentaa koko dumppi serverille sen sijaan että parsitaan dumppi clientillä, koska sitten dumpit voitaisiin parsia uudelleen tarvittaessa. Pitää tutkia miten hyvin dumppia saisi pakattua, mahdollisesti jonkinlaisen esikäsittelyn kanssa.
