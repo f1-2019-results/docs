@@ -7,4 +7,5 @@
 | 16.11. | 6    | Postgres ja docker testailu. Postgres kannan suunnittelu. Käyttäjän rekisteröinti api. Github actions ajamaan testit ja code coverage. Codecov käyttöönotto.  |
 | 21.11. | 2.5    | Session model, testien lisäys. Login osittain toteutattu (testaamatta).  |
 | 22.11. | 2    | Docker ongelman selvittely, login toteutus, testien lisäys, refaktorointi  |
-| Yhteensä   | 16   | | 
+| 23.11. | 2    | BinaryParser toteutettu osittain. Tarkoitus parsia helpommin binääridatasta js olioita ilman että tarvitsee manuaalisesti kirjoittaa kaikki parsintakoodi jokaiselle eri paketille.  |
+| Yhteensä   | 18   | | 
