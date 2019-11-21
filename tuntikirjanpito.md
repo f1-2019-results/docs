@@ -6,4 +6,5 @@
 | 15.11. | 2    | Dumpin parsiminen. Serverin initialisointi |
 | 16.11. | 6    | Postgres ja docker testailu. Postgres kannan suunnittelu. Käyttäjän rekisteröinti api. Github actions ajamaan testit ja code coverage. Codecov käyttöönotto.  |
 | 21.11. | 2.5    | Session model, testien lisäys. Login osittain toteutattu (testaamatta).  |
-| Yhteensä   | 14   | | 
+| 22.11. | 2    | Docker ongelman selvittely, login toteutus, testien lisäys, refaktorointi  |
+| Yhteensä   | 16   | | 
