@@ -17,3 +17,4 @@ Toimintoja ensimmäisessä versiossa:
 * Tarkempaa telemetriaa (mm. nopeus, kaasu, jarru, sijanti radalla yms.). Yksi ongelma datan paljous. F1 2019 dataa tulee noin 4-5MB minuutissa, eli puolen tunnin kisa olisi varmaan yli 100MB. Tavallaan olisi hyvä juttu tallentaa koko dumppi serverille sen sijaan että parsitaan dumppi clientillä, koska sitten dumpit voitaisiin parsia uudelleen tarvittaessa. Pitää tutkia miten hyvin dumppia saisi pakattua, mahdollisesti jonkinlaisen esikäsittelyn kanssa.
 * Telemetriaa myös muista kuin kisoista. (time trial, practice)
 * Manuaalisesti annettavat rangaistukset kisan jälkeen (mm. aika- tai sijarangaistus)
+* Aika-ajojen ja harjoitusten tallennus.
