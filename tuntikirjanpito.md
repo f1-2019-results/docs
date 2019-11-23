@@ -9,4 +9,5 @@
 | 21.11. | 2    | Docker ongelman selvittely, login toteutus, testien lisäys, refaktorointi  |
 | 22.11. | 2    | BinaryParser toteutettu osittain. Tarkoitus parsia helpommin binääridatasta js olioita ilman että tarvitsee manuaalisesti kirjoittaa kaikki parsintakoodi jokaiselle eri paketille.  |
 | 23.11. | 2.5    | Kisojen tietokanta schema ja kisan tallennus tietokantaan.  |
-| Yhteensä   | 20.5   | | 
+| 23.11. | 1    | Kisan luku tietokannasta  |
+| Yhteensä   | 21.5   | | 
