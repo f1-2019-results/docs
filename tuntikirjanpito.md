@@ -10,4 +10,5 @@
 | 22.11. | 2    | BinaryParser toteutettu osittain. Tarkoitus parsia helpommin binääridatasta js olioita ilman että tarvitsee manuaalisesti kirjoittaa kaikki parsintakoodi jokaiselle eri paketille.  |
 | 23.11. | 2.5    | Kisojen tietokanta schema ja kisan tallennus tietokantaan.  |
 | 23.11. | 1    | Kisan luku tietokannasta  |
-| Yhteensä   | 21.5   | | 
+| 24.11. | 0.75    | Web clientin initialisointi  |
+| Yhteensä   | 22.25   | | 
