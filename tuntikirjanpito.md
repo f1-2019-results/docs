@@ -11,4 +11,5 @@
 | 23.11. | 2.5    | Kisojen tietokanta schema ja kisan tallennus tietokantaan.  |
 | 23.11. | 1    | Kisan luku tietokannasta  |
 | 24.11. | 0.75    | Web clientin initialisointi  |
-| Yhteensä   | 22.25   | | 
+| 30.11. | 2    | Taistelua web client projektin linttauksen ja automaattisen formatoinnin kanssa. (Auto formatointi formatoi .vue tiedostot muotoon joka ei mene lintterstä läpi).   |
+| Yhteensä   | 24.25   | | 
