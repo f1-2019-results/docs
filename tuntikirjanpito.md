@@ -12,4 +12,5 @@
 | 23.11. | 1    | Kisan luku tietokannasta  |
 | 24.11. | 0.75    | Web clientin initialisointi  |
 | 30.11. | 2    | Taistelua web client projektin linttauksen ja automaattisen formatoinnin kanssa. (Auto formatointi formatoi .vue tiedostot muotoon joka ei mene lintterstä läpi).   |
-| Yhteensä   | 24.25   | | 
+| 1.12. | 0.5    | Kisatulos tablen suunnittelu   |
+| Yhteensä   | 24.75   | | 
