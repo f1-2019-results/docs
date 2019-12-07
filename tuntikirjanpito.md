@@ -15,4 +15,5 @@
 | 1.12. | 0.5    | Kisatulos tablen suunnittelu   | server |
 | 5.12. | 2.5   | BinaryParser refaktorointi ja testien lisäys   | desktop |
 | 6.12. | 1   | BinaryParser | desktop |
-| Yhteensä   | 28.25   | | 
+| 7.12. | 3   | BinaryParser testien lisäys. gh actions debuggaus (eslint ei emittaa virheitä) | desktop |
+| Yhteensä   | 31.25   | | 
