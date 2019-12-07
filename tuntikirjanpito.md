@@ -14,4 +14,5 @@
 | 30.11. | 2    | Taistelua web client projektin linttauksen ja automaattisen formatoinnin kanssa. (Auto formatointi formatoi .vue tiedostot muotoon joka ei mene lintterstä läpi).   | web |
 | 1.12. | 0.5    | Kisatulos tablen suunnittelu   | server |
 | 5.12. | 2.5   | BinaryParser refaktorointi ja testien lisäys   | desktop |
-| Yhteensä   | 27.25   | | 
+| 6.12. | 1   | BinaryParser | desktop |
+| Yhteensä   | 28.25   | | 
