@@ -16,4 +16,5 @@
 | 5.12. | 2.5   | BinaryParser refaktorointi ja testien lisäys   | desktop |
 | 6.12. | 1   | BinaryParser | desktop |
 | 7.12. | 3   | BinaryParser testien lisäys. [gh actions debuggaus (eslint ei emittaa virheitä)](https://github.com/FINDarkside/tobenamed-desktop-client/issues/2) | desktop |
-| Yhteensä   | 31.25   | | 
+| 10.12. | 2.25   | Binary parser testien lisäys. Korjaa [backend #2](https://github.com/FINDarkside/tobenamed-desktop-client/issues/2) | desktop. Koodikattavuuden ongelmien korjaus. |
+| Yhteensä   | 33.5   | | 
