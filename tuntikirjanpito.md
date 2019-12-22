@@ -19,4 +19,5 @@
 | 10.12. | 2.25   | Binary parser testien lisäys. Korjaa [backend #2](https://github.com/FINDarkside/tobenamed-desktop-client/issues/2) Koodikattavuuden ongelmien korjaus.| desktop |
 | 14.12. | 3   | Binary parser testien lisäys ja korjaus. [Typescript juttuja](https://github.com/FINDarkside/tobenamed-desktop-client/issues/4) binary parserille| desktop |
 | 14.12. | 0.75   | Refaktorointi ja eslint kanssa säätäminen (vscode eslint plugin ei kerro virheistä)| desktop |
-| Yhteensä   | 37.25   | | 
+| 22.12. | 4   | Korjaa linttaus ongelma eslint pluginin kanssa. Parserit F1 2019 datalle. | desktop |
+| Yhteensä   | 41.25   | | 
