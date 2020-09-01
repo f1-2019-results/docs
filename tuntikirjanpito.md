@@ -21,5 +21,5 @@
 | 14.12.2019 | 0.75   | Refaktorointi ja eslint kanssa säätäminen (vscode eslint plugin ei kerro virheistä)| desktop |
 | 22.12.2019 | 4   | Korjaa linttaus ongelma eslint pluginin kanssa. Parserit F1 2019 datalle. | desktop |
 | 1.6.2020 | 1.5   | Ota [typeorm](https://github.com/typeorm/typeorm) käyttöön. (kesken) | server |
-| 1.9.2020 | 6.25    | TypeORM käyttöönottoa | server |
-| Yhteensä   | 49   | | 
+| 1.9.2020 | 6.75    | TypeORM käyttöön | server |
+| Yhteensä   | 49.5   | | 
