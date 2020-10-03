@@ -22,4 +22,5 @@
 | 22.12.2019 | 4   | Korjaa linttaus ongelma eslint pluginin kanssa. Parserit F1 2019 datalle. | desktop |
 | 1.6.2020 | 1.5   | Ota [typeorm](https://github.com/typeorm/typeorm) käyttöön. (kesken) | server |
 | 1.9.2020 | 6.75    | TypeORM käyttöön | server |
-| Yhteensä   | 49.5   | | 
+| 3.10.2020 | 2    | Pieniä korjauksia backendiin, uusien kisojen datan lisääminen  | server |
+| Yhteensä   | 51.5   | | 
