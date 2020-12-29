@@ -23,5 +23,5 @@
 | 1.6.2020 | 1.5   | Ota [typeorm](https://github.com/typeorm/typeorm) käyttöön. (kesken) | server |
 | 1.9.2020 | 6.75    | TypeORM käyttöön | server |
 | 3.10.2020 | 2    | Pieniä korjauksia backendiin, uusien kisojen datan lisääminen  | server |
-| 29.12.2020 | 3    | Uuden kisan lisääminen, refaktorointi  | server |
-| Yhteensä   | 54.5   | | 
+| 29.12.2020 | 5    | Uuden kisan lisääminen, refaktorointi  | server |
+| Yhteensä   | 56.5   | | 
