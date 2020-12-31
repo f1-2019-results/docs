@@ -24,4 +24,5 @@
 | 1.9.2020 | 6.75    | TypeORM käyttöön | server |
 | 3.10.2020 | 2    | Pieniä korjauksia backendiin, uusien kisojen datan lisääminen  | server |
 | 29.12.2020 | 5    | Uuden kisan lisääminen, refaktorointi  | server |
-| Yhteensä   | 56.5   | | 
+| 30.12.2020 | 2    | Refaktorointi, kisa datan hakeminen  | server |
+| Yhteensä   | 58.5   | | 
