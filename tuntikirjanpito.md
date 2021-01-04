@@ -25,4 +25,5 @@
 | 3.10.2020 | 2    | Pieniä korjauksia backendiin, uusien kisojen datan lisääminen  | server |
 | 29.12.2020 | 5    | Uuden kisan lisääminen, refaktorointi  | server |
 | 30.12.2020 | 2    | Refaktorointi, kisa datan hakeminen  | server |
-| Yhteensä   | 58.5   | | 
+| 4.1.2021 | 2    | Serveri pieniä muutoksia, dekstop client dependencyjen päivitys, datan parsiminen  | server, desktop |
+| Yhteensä   | 60.5   | | 
