@@ -27,4 +27,5 @@
 | 30.12.2020 | 2    | Refaktorointi, kisa datan hakeminen  | server |
 | 4.1.2021 | 2    | Serveri pieniä muutoksia, dekstop client dependencyjen päivitys, datan parsiminen  | server, desktop |
 | 7.1.2021 | 3    | datan parsiminen  | desktop |
-| Yhteensä   | 63.5   | | 
+| 7.1.2021 | 3,5    | Datan lähetys clientiltä serverille, frontissa datan haku ja renderöinti + muuta  | kaikki |
+| Yhteensä   | 67   | | 
