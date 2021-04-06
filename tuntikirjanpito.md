@@ -29,4 +29,5 @@
 | 7.1.2021 | 3    | datan parsiminen  | desktop |
 | 27.3.2021 | 3,5    | Datan lähetys clientiltä serverille, frontissa datan haku ja renderöinti + muuta  | kaikki |
 | 2.4.2021 | 3    | Backendin ja frontin automaattinen deployaus (heroku + github pages)  | server, web |
-| Yhteensä   | 70   | | 
+| 5.4.2021 | 3    | Viimeistely  | server, web, desktop |
+| Yhteensä   | 73   | | 
