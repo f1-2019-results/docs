@@ -30,4 +30,5 @@
 | 27.3.2021 | 3,5    | Datan lähetys clientiltä serverille, frontissa datan haku ja renderöinti + muuta  | kaikki |
 | 2.4.2021 | 3    | Backendin ja frontin automaattinen deployaus (heroku + github pages)  | server, web |
 | 5.4.2021 | 3    | Viimeistely  | server, web, desktop |
-| Yhteensä   | 73   | | 
+| 10.5.2021 | 12    | Viimeistely, frontin tyylit, graafi rataposition muutoksille, korjauksia parseriin, tallin nimet + värit  | server, web, desktop |
+| Yhteensä   | 85   | | 
