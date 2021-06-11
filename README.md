@@ -8,10 +8,10 @@ Api osoitteessa https://f1-results.herokuapp.com/
 
 ## Repot
 
-* [Desktop client](https://github.com/FINDarkside/tobenamed-desktop-client)
-* [Backend](https://github.com/FINDarkside/tobenamed-backend)
-* [Web client](https://github.com/FINDarkside/tobenamed-web-client)
-* [f1-2019-results.github.io](f1-2019-results/f1-2019-results.github.io) repo johon web client repo deployaa automaattisesti
+* [Desktop client](https://github.com/f1-2019-results/tobenamed-desktop-client)
+* [Backend](https://github.com/f1-2019-results/tobenamed-backend)
+* [Web client](https://github.com/f1-2019-results/tobenamed-web-client)
+* [f1-2019-results.github.io](https://github.com/f1-2019-results/f1-2019-results.github.io) repo johon web client repo deployaa automaattisesti
 
 ## Muuta
 
