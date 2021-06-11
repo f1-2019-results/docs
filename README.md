@@ -2,6 +2,7 @@
 
 * Frontti saatavilla osoitteessa https://f1-2019-results.github.io/
 * Api osoitteessa https://f1-results.herokuapp.com
+* [Vaatimusmäärittely](/Vaatimusmäärittely.md)
 * [Käyttöohje](/käyttöohje.md)
 * [Tuntikirjanpito](/tuntikirjanpito.md)
 
