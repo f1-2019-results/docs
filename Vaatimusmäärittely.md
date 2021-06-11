@@ -6,9 +6,9 @@ Kerätä telemetriaa eri ajosimulaattoreista ja peleistä ja näyttää siitä m
 
 Toimintoja ensimmäisessä versiossa:
 * Komentorivipohjainen desktop client pelin telemetrian lukemiseen ja serverille lähettämiseen
-* Rekisteröityminen/kirjautuminen web clientissä
-* Kisojen statistiikkaa: sijoitukset (per kierros), kierrosajat.
-* Mahdollisuus luoda sarjoja jotka koostuu useammasta kisasta. Sisältää ainakin sarjaan kuuluvat kisat, kisoista saadut pisteet.
+* ~~Rekisteröityminen/kirjautuminen web clientissä~~ (API olemassa, frontti puuttuu)
+* Kisojen statistiikkaa: sijoitukset (per kierros), ~~kierrosajat~~.
+* ~~Mahdollisuus luoda sarjoja jotka koostuu useammasta kisasta. Sisältää ainakin sarjaan kuuluvat kisat, kisoista saadut pisteet.~~
 
 ## Jatkokehitysideoita
 * Electron pohjainen desktop client telemetrian lukemiseen.
