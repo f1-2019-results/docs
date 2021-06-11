@@ -11,6 +11,7 @@ Api osoitteessa https://f1-results.herokuapp.com/
 * [Desktop client](https://github.com/FINDarkside/tobenamed-desktop-client)
 * [Backend](https://github.com/FINDarkside/tobenamed-backend)
 * [Web client](https://github.com/FINDarkside/tobenamed-web-client)
+* [f1-2019-results.github.io](f1-2019-results/f1-2019-results.github.io) repo johon web client repo deployaa automaattisesti
 
 ## Muuta
 
